@@ -136,3 +136,6 @@ print(f"Имя:                  {student['name']}")
 print(f"Возраст:              {student['age']} лет")
 print(f"Любимые предметы:     {', '.join(student['subjects'])}")
 print("="*50)
+
+print()
+input("Нажмите Enter, чтобы закрыть программу...")
