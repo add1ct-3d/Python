@@ -14,7 +14,7 @@ print("2. Кортеж my_tuple до изменения:", my_tuple)
 try:
     my_tuple[0] = 100
 
-except ValueError:
+except TypeError:
     print("Объяснение: кортежи в Python неизменямые. Нельзя изменить отдельные элементы после создания. "
           "Если убрать try-except, кортеж останется без изменений и программа выдаст ошибку. \n")
 
@@ -22,9 +22,9 @@ my_string = "cat"
 print("3. Строка my_string до изменения:", my_string)
 
 try:
-    my_string[0] = b
+    my_string[0] = "b"
 
-except ValueError:
+except TypeError:
     print("Объяснение: строки в Python неизменяемые. Нельзя менять отдельные символы напрямую. "
           "Если убрать try-except, строка останется без изменений и программа выдаст ошибку. \n")
 
