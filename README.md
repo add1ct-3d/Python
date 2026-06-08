@@ -8,7 +8,7 @@
 - [x] *~~[Пр. №2 “Составление алгоритмов с применением средств автоматизированного проектирования](https://docs.google.com/document/d/1BUcWh3KWB2QFR4xWbykWHGyV16Bju70jmNfEgc2Nqao/edit?usp=sharing_)~~*
 - [x] *~~[Пр. №3 “Исследование типов данных в Python”](https://docs.google.com/document/d/1BYrSNXlMbtgyd6wHP6xMIRDw6rWnr2C5ApsycU7UaSg/edit?usp=sharing)~~*
 - [x] *~~[Пр. №4 “Программа математических расчетов”](https://docs.google.com/document/d/1VdlHkW0daOfryvUi4zkzWXcHqkHxRaP6GKTu3wqyvu4/edit?usp=sharing)~~*
-- [x] *~~Лаб. работа “Match-case”~~*
+- [x] *~~[Лаб. работа “Match-case”](https://docs.google.com/presentation/d/1gxBmdZJcKYJcXIbBc4fAoYsPnvgQq3GCC68zuvcw3wU/edit?usp=sharing)~~*
 
 ### Оставшиеся работы:
 - [ ] *Пр. №5 “Составление программ линейной структуры”*
