@@ -5,7 +5,7 @@
 
 ### Выполненные работы:
 - [x] *~~[Пр. №1 «Знакомство со средой программирования»](https://docs.google.com/document/d/1ohnAzZGxkPcQd-q-ZZJb9ZgNsA45VbkfxV6pCwshzjw/edit?usp=sharing)~~*
-- [x] *~~[Пр. №2 “Составление алгоритмов с применением средств автоматизированного проектирования](https://docs.google.com/document/d/1BUcWh3KWB2QFR4xWbykWHGyV16Bju70jmNfEgc2Nqao/edit?usp=sharing_~~*
+- [x] *~~[Пр. №2 “Составление алгоритмов с применением средств автоматизированного проектирования](https://docs.google.com/document/d/1BUcWh3KWB2QFR4xWbykWHGyV16Bju70jmNfEgc2Nqao/edit?usp=sharing_)~~*
 - [x] *~~Пр. №3 “Исследование типов данных в Python”~~*
 - [x] *Пр. №4 “Программа математических расчетов”*
 - [x] *~~Лаб. работа “Match-case”~~*
