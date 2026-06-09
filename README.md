@@ -12,6 +12,7 @@
 - [ ] *[Пр. №5 “Составление программ линейной структуры (без if, while, for)”](https://docs.google.com/document/d/1cdcRz9MLhV6zPTCtxnv9uLfUMkC5hd3cRKezDYyZUs4/edit?usp=sharing)*
 - [ ] *[Пр. №6. “Составление программ разветвляющейся структуры (без if, while, for)”](https://docs.google.com/document/d/1i2XBnf8sZsHATIkzcAfcc8tLAweQcubyktimMNk3Kk4/edit?usp=sharing)*
 - [ ] *[Пр. №7. “Программа с применением оператора множественного выбора”](https://docs.google.com/document/d/1H_ngEpFrR7mJbbIGtkQtZAzg02QF6Wq4_i5p38XMBSk/edit?usp=sharing)*
+- [ ] *[Пр. №8. “Составление программ на основе циклов с параметром”](https://docs.google.com/document/d/10YJS-10jaifE9G_28eE8uY1uhVdfWCQK0SDjB5KFmQU/edit?usp=sharing)*
 - [ ] *[Лаб. работа "Решение задач на логику" (8 работ, без списков и if)](https://docs.google.com/presentation/d/1u_tEPQ61BIGwStY9yO07XeecwOnYztGCSBdqELLEcOk/edit)*
 
 
