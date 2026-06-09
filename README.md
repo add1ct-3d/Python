@@ -13,6 +13,8 @@
 - [ ] *[Пр. №6. “Составление программ разветвляющейся структуры (без if, while, for)”](https://docs.google.com/document/d/1i2XBnf8sZsHATIkzcAfcc8tLAweQcubyktimMNk3Kk4/edit?usp=sharing)*
 - [ ] *[Пр. №7. “Программа с применением оператора множественного выбора”](https://docs.google.com/document/d/1H_ngEpFrR7mJbbIGtkQtZAzg02QF6Wq4_i5p38XMBSk/edit?usp=sharing)*
 - [ ] *[Пр. №8. “Составление программ на основе циклов с параметром”](https://docs.google.com/document/d/10YJS-10jaifE9G_28eE8uY1uhVdfWCQK0SDjB5KFmQU/edit?usp=sharing)*
+- [ ] *[Пр. №9. “Составление программ на основе циклов с условием”](https://docs.google.com/document/d/1uS-Dio-C_uhaOlkbQZeDU92tkF8Ixp3HNAM-ua5fraI/edit?tab=t.0)*
+- [ ] *[Пр. №10. “Реализация циклического алгоритма с постусловием (эмуляция)”](https://docs.google.com/document/d/19Vc2KBZp1HjQ4wnWP-9LFO8gAvyY6J8dZSrtJc_Hqt8/edit?tab=t.0)*
 - [ ] *[Лаб. работа "Решение задач на логику" (8 работ, без списков и if)](https://docs.google.com/presentation/d/1u_tEPQ61BIGwStY9yO07XeecwOnYztGCSBdqELLEcOk/edit)*
 
 
