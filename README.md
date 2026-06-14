@@ -6,7 +6,7 @@
 - [x] *~~[Пр. №2 “Составление алгоритмов с применением средств автоматизированного проектирования](https://docs.google.com/document/d/1BUcWh3KWB2QFR4xWbykWHGyV16Bju70jmNfEgc2Nqao/edit?usp=sharing_)~~*
 - [x] *~~[Пр. №3 “Исследование типов данных в Python”](https://docs.google.com/document/d/1BYrSNXlMbtgyd6wHP6xMIRDw6rWnr2C5ApsycU7UaSg/edit?usp=sharing)~~*
 - [x] *~~[Пр. №4 “Программа математических расчетов”](https://docs.google.com/document/d/1VdlHkW0daOfryvUi4zkzWXcHqkHxRaP6GKTu3wqyvu4/edit?usp=sharing)~~*
-- [x] [Пр. №5 “Составление программ линейной структуры (без if, while, for)”](https://docs.google.com/document/d/1cdcRz9MLhV6zPTCtxnv9uLfUMkC5hd3cRKezDYyZUs4/edit?usp=sharing)
+- [x] *~~[Пр. №5 “Составление программ линейной структуры (без if, while, for)”](https://docs.google.com/document/d/1cdcRz9MLhV6zPTCtxnv9uLfUMkC5hd3cRKezDYyZUs4/edit?usp=sharing)`~~*
 - [x] *~~[Лаб. работа “Match-case” (2 работы)](https://docs.google.com/presentation/d/1gxBmdZJcKYJcXIbBc4fAoYsPnvgQq3GCC68zuvcw3wU/edit?usp=sharing)~~*
 - [x] *~~[Лаб. работа “DO-WHILE” (2 работы)](https://drive.google.com/file/d/1DfuJnJAeo9oa4EsR0g0EsITQ9aS4Rosh/view)~~*    
 
